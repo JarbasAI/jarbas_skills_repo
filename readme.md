@@ -18,7 +18,7 @@ This is aimed at [jarbas-core](https://github.com/JarbasAl/jarbas-core), but sho
 
 ## Adding a skill
 
-create a pull request, add to/create "common_3rd_party.txt" file, alphabetical order please!
+create a pull request, add to/create "common.txt" file, alphabetical order please!
 
     my_skill_name , my_github_url
     
@@ -26,7 +26,7 @@ or if you don't provide the url, the official skills repo will be searched for m
 
     my_skill_name , 
     
-if the skill requires a platform add it to "platform_name_3rd_party.txt" instead
+if the skill requires a platform add it to "platform_name.txt" instead
 
 
 ## Interacting with this repo
